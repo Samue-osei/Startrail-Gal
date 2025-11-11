@@ -292,7 +292,7 @@ default conflict_level = 0   # 矛盾值
 - **项目主页**: [GitHub Repository](https://github.com/Meph1s-t/Startrail-Gal)
 - **问题反馈**: [Issues](https://github.com/Meph1s-t/Startrail-Gal/issues)
 - **讨论区**: [Discussions](https://github.com/Meph1s-t/Startrail-Gal/discussions)
-- **电子邮件**: startrail@startrailgal.xyz
+- **电子邮件**: 1@startrailgal.xyz
 
 ### 🌟 支持项目
 
@@ -426,7 +426,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 - **Project Homepage**: [GitHub Repository](https://github.com/Meph1s-t/Startrail-Gal)
 - **Issue Tracker**: [Issues](https://github.com/Meph1s-t/Startrail-Gal/issues)
 - **Discussions**: [Discussions](https://github.com/Meph1s-t/Startrail-Gal/discussions)
-- **Email**: youremail@example.com
+- **Email**: 1@startrailgal.xyz
 
 ### 🌟 Support
 
