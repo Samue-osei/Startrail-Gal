@@ -13,6 +13,7 @@
 #### 1. 美术贡献 🎨
 
 我们需要以下美术资源:
+目前我们已有1个美术.
 
 **角色立绘**
 - 女鸳鸯(女主): 6种表情 × 多套服装
@@ -30,24 +31,26 @@
 
 **CG插图** (关键场景)
 - 优先级高: CG09(凤岭告白), CG15(复合拥抱), CG17(飞机结局)
-- 完整列表见 `docs/CG列表.md`
+- 完整列表见 `docs/CG列表.md`[citation needed]
 
 **要求**:
-- 格式: PNG (透明背景) 或 JPG
+- 格式: PNG (透明背景)
 - 风格: 现代青春写实风格
 - 分辨率: 角色立绘建议 1000×2000+, 背景1920×1080, CG 1920×1080
-- 请提供PSD源文件(如果可能)
+- (重要) 确保你拥有版权或已获得授权
 
 #### 2. 音乐贡献 🎵
 
+目前我们已有一个原创音乐提供者.
+
 **BGM需求**
-- 日常生活主题 (轻松、温馨)
-- 浪漫主题 (甜蜜、心动)
+- 日常生活主题 (轻松、温馨), 可能需要两首. 目前已经完成了一个.
+- 浪漫主题 (甜蜜、心动), 可能需要两首.
 - 告白专用曲 (感人、深情)
 - 悲伤主题 (忧郁、伤感)
 - 紧张氛围 (压抑、焦虑)
-- 重逢主题 (激动、温暖)
-- 结局主题 (升华、圆满)
+- 重逢主题 (激动、温暖) 可能需要比较长的乐曲.
+- 结局主题 (升华、圆满) 可能需要比较长的乐曲.
 
 **音效需求**
 - 环境音: 教室、操场、咖啡馆
@@ -55,11 +58,11 @@
 - 特殊音效: 心跳、电话铃声、消息提示
 
 **要求**:
-- 格式: MP3 (192kbps+) 或 OGG
-- BGM长度: 2-4分钟(可循环)
+- 格式: OGG
+- BGM长度: 可循环即可, 10s-5min都可以.
 - 音效长度: 1-5秒
-- 请提供原始工程文件(如果可能)
-- 确保你拥有版权或已获得授权
+- 无需提供原始工程文件(但是请声明创作者状态, 比如AI生成, 或者创作者希望的License类型.)
+- (重要) 确保你拥有版权或已获得授权
 
 #### 3. 编程贡献 💻
 
@@ -89,6 +92,8 @@
 
 #### 4. 文案贡献 📝
 
+目前我们还没有文案
+
 **需要帮助的方面**
 - 对话润色(使其更自然、生动)
 - 心理独白优化
@@ -103,6 +108,8 @@
 - 适当添加文化背景注释
 
 #### 5. 测试贡献 🎮
+
+目前我们刚刚创建文件夹, 所以无需测试者.
 
 **测试类型**
 - 功能测试: 检查功能是否正常
@@ -187,6 +194,10 @@ docs: 更新README中的安装说明
 
 感谢你的贡献!
 
+目前的贡献者:
+
+项目创建者, 原创音乐, 歪脖口定写尬了给木超人(?: Meph1s_t
+
 ---
 
 ## English Version
@@ -213,13 +224,13 @@ We need the following art assets:
 
 **CG Illustrations** (Key scenes)
 - High priority: CG09 (Confession), CG15 (Reunion), CG17 (Ending)
-- Full list in `docs/CG列表.md`
+- Full list in `docs/CG列表.md`[citation needed](?
 
 **Requirements**:
 - Format: PNG (transparent background) or JPG
 - Style: Modern realistic youth style
 - Resolution: Sprites 1000×2000+, Backgrounds 1920×1080, CGs 1920×1080
-- Please provide PSD source files if possible
+- Ensure you own copyright or have obtained authorization
 
 #### 2. Music Contributions 🎵
 
