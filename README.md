@@ -18,7 +18,8 @@
 ---
 # 我们招募一切有志愿加入Startrail开发组的人! 详情可以发送邮件给1@startrailgal.xyz
 <img width="1276" height="422" alt="image" src="https://github.com/user-attachments/assets/7e951579-f873-4fe4-b500-a5fe0b9180d2" />
-# 今天一个人都没有 快来帮帮我们吧! 绷不住了, , ,
+## 今天一个人都没有 快来帮帮我们吧! 绷不住了, , ,
+---
 ## 中文
 
 ### 📖 关于项目
